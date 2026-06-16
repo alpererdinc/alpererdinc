@@ -1,7 +1,7 @@
 # Hi, I'm Alper Erdinç
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&center=true&vCenter=true&width=650&lines=Game+Developer+in+progress;Unity+%7C+C%23+%7C+Gameplay+Programming;Adaptive+NPC+AI+%26+Interactive+Systems;Building+games+that+feel+alive" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&center=true&vCenter=true&width=650&lines=Game+Developer+in+progress;Unity+%7C+C%23+%7C+Gameplay+Programming;Adaptive+NPC+AI+%26+Interactive+Systems;Still+grinding+XP+..." alt="Typing SVG" />
 </p>
 
 I am a Computer Engineering student from Türkiye, focusing on **game development**, **Unity/C#**, **gameplay programming**, **adaptive NPC AI**, and **interactive storytelling**.
