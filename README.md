@@ -6,36 +6,6 @@ I enjoy building game prototypes, experimenting with player interaction systems,
 
 ---
 
-## About Me
-
-- Computer Engineering student at Çukurova University
-- Interested in PC/console-oriented game development and gameplay systems
-- Working on adaptive NPC behavior, player profiling, and AI-supported game systems
-- Building Unity/C# game prototypes and interactive experiences
-- Also interested in animation, character design, pixel art, and storytelling
-- Currently looking for internship / new grad opportunities in game development
-
----
-
-## Tech Stack
-
-**Game Development**  
-Unity, C#, Gameplay Prototyping, UI Systems, Game Loop Design, NPC Behavior
-
-**Programming**  
-C#, C++, Python, JavaScript, HTML, CSS, 8086 Assembly
-
-**AI / Computer Vision**  
-YOLO, MobileNetV2, PyTorch, OpenCV, Player Profiling, Adaptive AI
-
-**Graphics & Creative Tools**  
-OpenGL, Blender, Pixel Art, Animation, Character Design
-
-**Tools**  
-Git, GitHub, Visual Studio, VS Code, Streamlit, XAMPP, MySQL
-
----
-
 ## Featured Projects
 
 ### Adaptive NPC AI Thesis Project
@@ -51,6 +21,23 @@ A Unity-based game prototype where NPC dialogue and behavior adapt to the player
 - Local LLM connection with Ollama
 - Rule-based behavior adaptation
 - Debug UI and gameplay feedback systems
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alpererdinc&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpererdinc&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alpererdinc&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alpererdinc&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 ---
 
@@ -110,31 +97,14 @@ A 3D museum room concept with robot statues, interactive information pop-ups, mo
 ## What I'm Interested In
 
 - Gameplay programming
-- PC/console game development
+- 2D Animation
 - NPC/AI systems
 - Interactive storytelling
 - Game feel and player feedback
-- Tools and systems development
-- Indie game production
+- 3D Modeling
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alpererdinc&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpererdinc&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alpererdinc&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alpererdinc&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
----
 
 ## Contact
 
