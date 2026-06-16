@@ -1,5 +1,7 @@
 # Hi, I'm Alper Erdinç
 
+Portfolio Website: [alpererdinc.github.io](https://alpererdinc.github.io/)
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&center=true&vCenter=true&width=650&lines=Game+Developer+in+progress;Unity+%7C+C%23+%7C+Gameplay+Programming;Adaptive+NPC+AI+%26+Interactive+Systems;Still+grinding+XP+..." alt="Typing SVG" />
 </p>
@@ -46,6 +48,7 @@ I enjoy building game prototypes, experimenting with player interaction systems,
 
 ## Contact
 
+- Portfolio Website: [alpererdinc.github.io](https://alpererdinc.github.io/)
 - Email: [ae.alpererdinc@gmail.com](mailto:ae.alpererdinc@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/alpererdinc47/](https://www.linkedin.com/in/alpererdinc47/)
 - Portfolio: [Game Development Portfolio](https://drive.google.com/file/d/1IpFmLRHSEkL9RSHHgxTXJ4KNM2rvyiy3/view?usp=drive_link)
