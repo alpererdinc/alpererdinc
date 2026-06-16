@@ -139,7 +139,7 @@ A 3D museum room concept with robot statues, interactive information pop-ups, mo
 ## Contact
 
 - Email: [ae.alpererdinc@gmail.com](mailto:ae.alpererdinc@gmail.com)
-- LinkedIn: [Add your LinkedIn link](https://www.linkedin.com/in/alpererdinc47/)
+- LinkedIn: [https://www.linkedin.com/in/alpererdinc47/](https://www.linkedin.com/in/alpererdinc47/)
 - Portfolio: [drive link](https://drive.google.com/file/d/1IpFmLRHSEkL9RSHHgxTXJ4KNM2rvyiy3/view?usp=drive_link)
 - GitHub: [https://github.com/alpererdinc](https://github.com/alpererdinc)
 
