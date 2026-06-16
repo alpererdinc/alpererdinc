@@ -122,16 +122,16 @@ A 3D museum room concept with robot statues, interactive information pop-ups, mo
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alpererdinc47&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpererdinc47&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alpererdinc&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpererdinc&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alpererdinc47&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=alpererdinc&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alpererdinc47&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=alpererdinc&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
