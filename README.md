@@ -24,7 +24,7 @@ I enjoy building game prototypes, experimenting with player interaction systems,
 
 - Building gameplay prototypes with **Unity & C#**
 - Exploring **adaptive NPC behavior** and player profiling systems
-- Improving my portfolio for **game development internship / new grad opportunities**
+- Improving my portfolio for **game development new grad job opportunities**
 - Combining **technical systems** with storytelling, animation and game feel
 
 ---
